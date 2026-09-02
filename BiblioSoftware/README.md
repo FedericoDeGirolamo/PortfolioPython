@@ -1,6 +1,6 @@
 # BiblioSoftware - Library Management System
 
-A lightweight Python command-line application designed to handle book inventory, lending operations, and catalog statistics for a library.
+A Python command line application designed to handle book inventory, lending operations, and catalog statistics for a library.
 
 ## Features
 - **Catalog Management:** Add new books, update existing copy counts, and remove titles from the catalog.
